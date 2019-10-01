@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Aayush designs for a better way.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+I’m Aayush (ah-you-shh) Iyer.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia&stack=cms)
+I’m working at Twilio on building better products through design, and better design through systems. Day job aside, I run a few experiments in spaces I care about, and read a lot. I care about helping people be their best selves, and being an ally to marginalized voices. I live in Oakland, CA with my two dogs: Thrace & Tribbles.
