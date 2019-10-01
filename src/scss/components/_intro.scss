@@ -1,12 +1,13 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  background: var(--color-midnight-blue);
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    color: var(--color-salmon-pink);
 
-    a {
-      color: currentColor;
+    a { 
+      color: var(--color-salmon-pink);
 
       &:hover {
         text-decoration: none;
@@ -16,7 +17,7 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
+    color: var(--color-salmon-pink);
 
     &--compact {
       max-width: 20ex;

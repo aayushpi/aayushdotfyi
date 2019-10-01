@@ -18,7 +18,7 @@
     flex-shrink: 0;
 
     a {
-      color: currentColor;
+      color: var(--color-salmon-pink);
 
       @include apply-utility('weight', 'mid');
 
