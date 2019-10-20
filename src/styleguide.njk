@@ -96,13 +96,16 @@ permalink: /styleguide/
         <h3>Padding</h3>
         <p class="visually-hidden">Padding token classes that you can copy</p>
         {% for size in styleguide.sizes() %}
-          <div class="[ bg-dark pad-left-base color-light md:width-half ] [ pad-top-{{ size.key }} ]">
+          <div class="[ bg-color-background-inverse pad-left-base color-color-text-inverse
+ md:width-half ] [ pad-top-{{ size.key }} ]">
             <code>pad-top-{{ size.key }}</code>
           </div>
-          <div class="[ bg-dark pad-left-base color-light md:width-half ] [ pad-bottom-{{ size.key }} ]">
+          <div class="[ bg-color-background-inverse pad-left-base color-color-text-inverse
+ md:width-half ] [ pad-bottom-{{ size.key }} ]">
             <code>pad-bottom-{{ size.key }}</code>
           </div>
-          <div class="[ bg-dark color-light md:width-half ] [ pad-left-{{ size.key }} ]">
+          <div class="[ bg-color-background-inverse color-color-text-inverse
+ md:width-half ] [ pad-left-{{ size.key }} ]">
             <code>pad-left-{{ size.key }}</code>
           </div>
         {% endfor %}
