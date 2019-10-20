@@ -9,6 +9,10 @@
       "text": "Twitter",
       "url": "https://twitter.com/aayush",
       "external": true
+    },
+    {
+      "text": "Styleguide",
+      "url": "/styleguide"
     }
   ]
 }
